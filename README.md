@@ -1,1 +1,1 @@
-<a href="https://watabegg.github.io/">watabeggの個人サイト</a>
+<a href="https://watabe.gg/">watabeggの個人サイト</a>
