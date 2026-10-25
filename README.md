@@ -13,13 +13,13 @@
 
 ### ✦ THE TOOLBOX
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,rust,ruby,php,vue,astro,hono,cloudflare,git,github&amp;perline=6&amp;theme=dark" alt="TypeScript, JavaScript, Python, Rust, Ruby, PHP, Vue, Astro, Hono, Cloudflare, Git, GitHub" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,rust,ruby,php,vue,astro,cloudflare,git,github&amp;perline=6&amp;theme=dark" alt="TypeScript, JavaScript, Python, Rust, Ruby, PHP, Vue, Astro, Cloudflare, Git, GitHub" />
 
 <br /><br />
 
 ### ⚡ GITHUB IN NUMBERS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=watabegg&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=16" alt="watabegg GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=watabegg&amp;show_icons=true&amp;disable_animations=true&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=16" alt="watabegg GitHub statistics" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=watabegg&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=16" alt="Most used languages across public repositories" />
 
 <br /><br />
